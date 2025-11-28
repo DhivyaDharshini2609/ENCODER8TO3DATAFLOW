@@ -36,14 +36,14 @@ Figure 02  Encoder 8 * 3
 
 **Procedure**
 
-/* write all the steps invloved */
+ write all the steps invloved 
 
 **PROGRAM**
 
-/* Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
+ Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
 
 Developed by: DHIVYA DHARSHINI P  RegisterNumber: 25017613
-*/
+
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
 ![alt text](<Screenshot 2025-11-28 215737.png>)
